@@ -12,28 +12,12 @@ export default function FooterComponent() {
         {/* External Links Section */}
         <div className="flex space-x-4 mt-4 md:mt-0">
           <a
-            href="https://x.com/SamirXNOVA"
-            className="text-gray-400 hover:text-white transition"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaTwitter className="text-2xl" />
-          </a>
-          <a
             href="https://github.com/samirxnova"
             className="text-gray-400 hover:text-white transition"
             target="_blank"
             rel="noreferrer"
           >
             <FaGithub className="text-2xl" />
-          </a>
-          <a
-            href="https://www.instagram.com"
-            className="text-gray-400 hover:text-white transition"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaInstagram className="text-2xl" />
           </a>
         </div>
       </div>
