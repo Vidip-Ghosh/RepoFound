@@ -6,7 +6,7 @@ export default function FooterComponent() {
       <div className="container mx-auto px-4 flex flex-col items-center md:flex-row md:justify-between">
         {/* Trademark Section */}
         <div className="text-sm text-center md:text-left">
-          DeFindstarter © 2024
+          RepoFund © 2024
         </div>
 
         {/* External Links Section */}
